@@ -1,0 +1,15 @@
+{
+  "name": "smeknisy.store",
+  "short_name": "smeknisy.store",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "512x512px",
+      "type": "image/svg+xml"
+    }
+  ]
+}
